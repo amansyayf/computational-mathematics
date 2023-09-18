@@ -1,2 +1,2 @@
-# computational-mathematics_2022
-tasks in computational mathematics 5 sem
+# computational-mathematics
+tasks in computational mathematics in MIPT
